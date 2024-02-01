@@ -1,6 +1,6 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app).
+Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app). \
 Read the docs at [docs](https://docs.movie-web.app/proxy/introduction).
 
 ---
